@@ -1,0 +1,6 @@
+# Ignore directories
+.vscode/
+lib/
+
+
+.DS_Store
